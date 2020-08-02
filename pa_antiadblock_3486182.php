@@ -1,9 +1,9 @@
 <?php
 
-class __AntiAdBlock_3486182
+class __AntiAdBlock_3486224
 {
     private $token = 'db534d556a423fb457ba67fdc00065ee146d89ef';
-    private $zoneId = '3486182';
+    private $zoneId = '3486224';
     ///// do not change anything below this point /////
     private $requestDomainName = 'go.transferzenad.com';
     private $requestTimeout = 1000;
@@ -323,5 +323,5 @@ class __AntiAdBlock_3486182
         }
     }
 }
-$__aab = new __AntiAdBlock_3486182();
+$__aab = new __AntiAdBlock_3486224();
 return $__aab->get();
