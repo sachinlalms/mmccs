@@ -1,5 +1,5 @@
 # mmc-static-web
-http://mmccs.xyz
+http://marymathacs.online
 Kannur University Bsc Computer Science Study Materials
 * Previous Year Question papers
 * Syllabus
